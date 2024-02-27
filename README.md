@@ -26,7 +26,7 @@ pip install numpy pandas nltk scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fake-news-prediction.git
+git clone https://github.com/ArshThakkar/fake-news-prediction.git
 ```
 
 2. Navigate to the project directory:
